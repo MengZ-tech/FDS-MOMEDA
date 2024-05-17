@@ -3,4 +3,4 @@ Here I provided the Matlab implementation of FDS-MOMEDA. This is a practical app
 
 I kindly request any users to add full citation: Meng Zhang, FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis, Measurement Science and Technology, 2024. (Yet, This work is currently to-be-published, so I am unable to provide the complete reference source at the moment but I will do so promptly. 06/May/2024)
 
-I found out my code was being resold on the Internet. This is so not cool.
+I found out my code was being sold by some code sellesrs on the Internet. This is so not cool. At least buy me a coffee.
